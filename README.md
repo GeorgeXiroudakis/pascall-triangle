@@ -2,11 +2,11 @@
 
 this was an assignment in my first semester on the pascall triangle.
 
-##commant-line arguments
+## commant-line arguments
 
 it takes 3 commant-line arguments #rows, #column, mode 
 
-##modes 
+## modes 
 
 it has 3 modes 
 
